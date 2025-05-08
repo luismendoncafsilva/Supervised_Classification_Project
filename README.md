@@ -25,10 +25,8 @@ This notebook follows a step-by-step process:
 3. **Handling Class Imbalance**
    - Used techniques like resampling and class weights to help the model focus on the minority class (churned customers).
 
-4. **Feature Scaling**
-   - Applied `StandardScaler` to standardize numerical values before training.
 
-5. **Model Training & Cross-Validation**
+4. **Model Training & Cross-Validation**
    - Tested multiple classification models using cross-validation.
    - Compared performance using metrics like accuracy, precision, recall, and F1-score.
 
